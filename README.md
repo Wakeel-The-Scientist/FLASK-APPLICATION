@@ -1,4 +1,4 @@
-# Flask Web Application Report
+# Flask Web Application 
 
 ## Overview
 This project is a simple **Flask web application** that demonstrates the creation of a basic web server with multiple routes. The primary objectives are:
